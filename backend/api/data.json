@@ -1,0 +1,43 @@
+{
+    "New year Products":[
+        {
+           "festival_name":"New Year" ,
+           "State":"India",
+           "month":"January",
+           "serorprod":"Product",
+           "item":"Red COTTON DRESS",
+           "description":"Celebrate New Year's in style with our stunning cotton red dress for ladies. Designed for both comfort and elegance, this dress features a flattering fit that highlights your silhouette, combined with the vibrant energy of red to kickstart your year with confidence and charm. Perfect for New Year festivities and beyond, it's a timeless addition to your wardrobe.",
+           "imgurl":"https://www.aachho.com/collections/western-wear/products/surkh-shibori-cotton-dress"
+        },
+        {
+            "festival_name":"New Year" ,
+            "State":"India",
+            "month":"January",
+            "serorprod":"Product",
+            "item":"Blue Silk DRESS",
+            "description":"Celebrate the New Year with elegance in our Silk Blue Ladies Dress. Crafted from luxurious silk, this dress features a flattering silhouette that gracefully drapes over the body. The vibrant blue hue symbolizes serenity and a fresh start, making it the perfect choice for New Year festivities. Whether you're attending a sophisticated soiree or a cozy family gathering, this dress ensures you'll step into the New Year with style and grace.",
+            "imgurl":"https://www.aachho.com/collections/western-wear/products/blue-morpho-handblock-cotton-dress"
+        },
+        {
+            "festival_name":"New Year" ,
+            "State":"India",
+            "month":"January",
+            "serorprod":"Product",
+            "item":"Customized New Year Diaries",
+            "description":"Diaries featuring cultural motifs and New Year greetings, perfect for planning and resolutions.",
+            "imgurl":"https://www.amazon.in/doodle-WRITING-Initial-lasercut-Notebook/dp/B07DL9VPKV?ref_=Oct_d_obs_d_3591128031_0&pd_rd_w=2wVaV&content-id=amzn1.sym.370571d0-8ea8-473a-a451-f8692919a970&pf_rd_p=370571d0-8ea8-473a-a451-f8692919a970&pf_rd_r=3MPGN6VHBQZD53QAPK6M&pd_rd_wg=sti9w&pd_rd_r=3126c8a1-4067-442e-a82f-d4b19586dbdc&pd_rd_i=B07DL9VPKV"
+        }
+    ],
+    "Products":[
+        {
+           "festival_name":"" ,
+           "State":"",
+           "month":"",
+           "serorprod":"",
+           "item":"",
+           "description":"",
+           "imgurl":""
+        }
+    ]
+
+}

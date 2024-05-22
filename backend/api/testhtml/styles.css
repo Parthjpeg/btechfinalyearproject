@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif; /* You can choose the font that matches your design */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url('background-pattern.jpg') repeat; /* Add your pattern image */
+    background-size: contain;
+}
+
+.product-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.product-image img {
+    width: 400px; /* Adjust the size as needed */
+    height: auto;
+}
+
+.product-details {
+    flex-grow: 1;
+    padding-left: 20px;
+}
+
+.product-details p {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.price {
+    font-size: 24px;
+    color: green;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.add-to-cart {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.add-to-cart:hover {
+    background-color: #0056b3;
+}
